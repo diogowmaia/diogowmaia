@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img width=100%
-src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=FF4300&height=120&section=header"/>
 
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/b246c7f5-f5f0-4758-a9c5-853bd71b46a8)
 
